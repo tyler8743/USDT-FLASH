@@ -1,0 +1,7 @@
+# robots.txt for USDT-FLASH GitHub Pages
+
+User-agent: *
+Disallow:
+
+# Sitemap location
+Sitemap: https://tyler8743.github.io/USDT-FLASH/sitemap.xml
